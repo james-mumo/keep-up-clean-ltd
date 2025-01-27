@@ -1,11 +1,38 @@
-  =>  Template Name    : CleanMe – Cleaning Company Website Template
+Company Profile
+Keep Up Clean Ltd
 
-  =>  Template Link    : https://htmlcodex.com/cleaning-company-website-template
+About Us:
+Keep Up Clean Ltd is a professional cleaning company committed to delivering top-notch cleaning services tailored to meet the diverse needs of our clients. We specialize in a wide range of cleaning solutions, ensuring that your spaces remain spotless, comfortable, and healthy. With a dedicated team and advanced cleaning techniques, we guarantee excellent results every time.
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+Our Services:
 
-  =>  Template Author  : HTML Codex
+General Cleaning:
+Comprehensive cleaning solutions for residential and commercial spaces. From dusting and vacuuming to mopping and sanitizing, we handle it all.
 
-  =>  Author Website   : https://htmlcodex.com
+Office Cleaning:
+Maintaining a clean and organized workspace to enhance productivity and create a welcoming environment for employees and clients.
 
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+Car Seat Cleaning:
+Restoring the cleanliness and freshness of car interiors with specialized cleaning for fabric and leather seats.
+
+Bed & Mattress Cleaning:
+Deep cleaning and sanitization of mattresses to remove dust mites, allergens, and stains, ensuring a healthy sleeping environment.
+
+Sofa & Leather Seat Cleaning:
+Professional cleaning and conditioning for fabric and leather sofas to extend their lifespan and enhance their appearance.
+
+New House Floor Cleaning:
+Thorough cleaning of new homes to remove dust, debris, and stains, ensuring theyâ€™re ready for move-in.
+
+Why Choose Us?
+
+Experienced Team: Our skilled professionals are trained to deliver high-quality cleaning services.
+Eco-Friendly Solutions: We use environmentally friendly products to ensure safety for your family, employees, and pets.
+Advanced Equipment: We employ modern tools and techniques for effective cleaning.
+Customized Services: We tailor our cleaning packages to suit your specific needs.
+Affordable Prices: High-quality cleaning services at competitive rates.
+Mission:
+To provide exceptional cleaning services that exceed customer expectations while promoting hygiene and healthy living.
+
+Vision:
+To become the leading cleaning service provider by setting the highest standards of professionalism and excellence in the industry.
